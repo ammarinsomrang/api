@@ -5,25 +5,25 @@
             "id": "1",
             "name": "pizza",
             "price": "200 ฿",
-            "detail":"detail",
-            "cal": "580 cal",
-            "imageUrl": "https://img.proxumer.com/p/1200x0/2020/03/25/krzvbebmns3d.jpg"
+            "detail":"ready-made pizza dough,tomato ketchup,oregano leaves,Sliced Pineapple in Syrup,sliced ham,Shredded mozzarella cheese",
+            "cal": "266 cal",
+            "imageUrl": "https://cdn.1112.com/1112/public/images/products/pizza/Oct2021/102204_MP.png"
         },
         {
             "id": "2",
             "name": "sandwich",
-            "price": "50 ฿",
-            "detail": "detail",
-            "cal": "500 cal",
-            "imageUrl": "https://img.proxumer.com/p/1200x0/2020/03/25/fyznmrr1bz8b.jpg"
+            "price": "70 ฿",
+            "detail": "bread,ham,salad dressing",
+            "cal": "270 cal",
+            "imageUrl": "https://www.calforlife.com/image/food/Whole-Wheat-Tuna-Sandwich-.jpg"
         },
         {
             "id": "3",
             "name": "curry ",
-            "price": "50 ฿",
-            "detail": "detail",
-            "cal": "630 cal",
-            "imageUrl": "https://img.proxumer.com/p/1200x0/2019/01/28/3kec4fuy4i1m.jpg"
+            "price": "250 ฿",
+            "detail": "Curry Cubes,meat,onion,potato",
+            "cal": "325 cal",
+            "imageUrl": "https://www.japankakkoii.com/wp-content/uploads/2020/05/2960827_m.jpg"
         },
         {
             "id": "4",
