@@ -60,7 +60,7 @@
         {
             "id": "8",
             "name": "roast pork ",
-            "price": "250 ฿",
+            "price": "250 baht",
             "detail": "pork,spices,Chinese wine,sugar,seasoning powder",
             "cal": "240 cal",
             "imageUrl": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/3-C2TDREKKE3DVVT/hero/d83e9e5edb604b7fbe9d26e24a5bedb9_1620386339718556660.jpg"
@@ -68,7 +68,7 @@
         {
             "id": "9",
             "name": "soup ",
-            "price": "100 ฿",
+            "price": "100 baht",
             "detail": "garlic,onion,chicken house",
             "cal": "150 cal",
             "imageUrl": "https://www.madeinrecipes.com/wp-content/uploads/2021/10/%E0%B8%8B%E0%B8%B8%E0%B8%9B%E0%B9%80%E0%B8%AB%E0%B9%87%E0%B8%94%E0%B8%84%E0%B8%B5%E0%B9%82%E0%B8%95-%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B8%A2-%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B8%B8%E0%B8%94%E0%B8%B4%E0%B8%9A%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2-Keto-Mushroom-Soup.jpg"
@@ -76,7 +76,7 @@
         {
             "id": "10",
             "name": "fries ",
-            "price": "50 ฿",
+            "price": "50 baht",
             "detail": "potato",
             "cal": "311 cal",
             "imageUrl": "https://www.matichonacademy.com/wp-content/uploads/2021/06/french-fries.jpg"
@@ -84,7 +84,7 @@
         {
             "id": "11",
             "name": "boiled rice ",
-            "price": "50 ฿",
+            "price": "50 baht",
             "detail": "rice",
             "cal": "217 cal",
             "imageUrl": "https://www.leandietdelivery.com/wp-content/uploads/2020/11/Thaifood-1024x682.jpg"
@@ -92,7 +92,7 @@
         {
             "id": "12",
             "name": "fried rice ",
-            "price": "45 ฿",
+            "price": "45 baht",
             "detail": "chicken eggs,rice,garlic,onions,pepper",
             "cal": "163 cal",
             "imageUrl": "https://fit-d.com/image_webp/f?src=./uploads/food/0978a03d0616fcc51fed6649692ea55a.jpg"
@@ -100,7 +100,7 @@
         {
             "id": "13",
             "name": "onion rings ",
-            "price": "150 ฿",
+            "price": "150 baht",
             "detail": "onion",
             "cal": "410 cal",
             "imageUrl": "https://cdn.pixabay.com/photo/2014/02/25/06/19/onion-rings-274123_1280.jpg"
@@ -108,7 +108,7 @@
         {
             "id": "14",
             "name": "cheesecake ",
-            "price": "50 ฿",
+            "price": "50 baht",
             "detail": "cream cheese,fresh butter,All Purpose Flour,fresh milk,yolk,egg white,granulated sugar",
             "cal": "80 cal",
             "imageUrl": "http://f.ptcdn.info/457/021/000/1405913271-marthabake-o.jpg"
@@ -116,7 +116,7 @@
         {
             "id": "15",
             "name": "chocolate cake ",
-            "price": "100 ฿",
+            "price": "100 baht",
             "detail": "cream cheese,fresh butter,All Purpose Flour,fresh milk,yolk,egg white,granulated sugar,chocolate",
             "cal": "370 cal",
             "imageUrl": "https://fit-d.com/image_webp/f?src=./uploads/food/7e137e46cb8892d390ec2f30cdd17c9a.jpg"
@@ -124,7 +124,7 @@
         {
             "id": "16",
             "name": "fruit salad ",
-            "price": "150 ฿",
+            "price": "150 baht",
             "detail": "Melon,watermelon,red grapes,raspberries,blueberry",
             "cal": "50 cal",
             "imageUrl": "https://images.eatsmarter.com/sites/default/files/styles/1600x1200/public/fresh-fruit-salad-in-melon-bowl-464433.jpg"
@@ -132,7 +132,7 @@
         {
             "id": "17",
             "name": "pancakes ",
-            "price": "50 ฿",
+            "price": "50 baht",
             "detail": "all-purpose flour,baking powder,melted salted butter,sugar,whole milk",
             "cal": "227 cal",
             "imageUrl": "https://f.ptcdn.info/399/068/000/q6nyjdcdxtprDIvxx1O-o.jpg"
@@ -140,7 +140,7 @@
         {
             "id": "18",
             "name": "bacon ",
-            "price": "100 ฿",
+            "price": "100 baht",
             "detail": "bacon",
             "cal": "540 cal",
             "imageUrl": "https://t1.blockdit.com/photos/2020/10/5f7fd395cf02550cea80a1f7_800x0xcover_SBP5qqPc.jpg"
@@ -148,7 +148,7 @@
         {
             "id": "19",
             "name": "omelette ",
-            "price": "100 ฿",
+            "price": "100 baht",
             "detail": "chicken egg,butter oil,salt,pepper,butter oil",
             "cal": "153 cal",
             "imageUrl": "https://i.ytimg.com/vi/eJ96U6e2Es8/maxresdefault.jpg"
@@ -156,7 +156,7 @@
         {
             "id": "20",
             "name": "fried chicken ",
-            "price": "200 ฿",
+            "price": "200 baht",
             "detail": "chicken,all-purpose flour,egg",
             "cal": "245 cal",
             "imageUrl": "https://fit-d.com/uploads/food/dcaf27eba496da436f9601a115a762ba.jpg"
